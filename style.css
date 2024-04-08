@@ -1,0 +1,57 @@
+html{
+    background-color: blueviolet;
+}
+div .panda{
+border : solid 10px red;
+text-align: center;
+margin: 10px 1px;
+padding: 50PX 50PX;
+font-family: "Bungee Spice", sans-serif;
+background-color: black;
+border-radius:50px ;
+}
+ .first{
+   border: solid 10px lightblue; 
+   text-align: center;
+   margin: 50px;
+   background-color: coral;
+   border-radius: 10px;
+}
+h2{
+    font-family: "Dancing Script", cursive;
+}
+.second{
+    text-align: center;
+    border: solid 10px white;
+    margin: 50px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.third{
+    text-align: center;
+    border: solid 10px lightgreen;
+    margin: 50px;
+    background-color: lightcoral;
+    border-radius: 10px;
+}
+.dusra{
+    border: solid 10px lightblue;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: "Oswald", sans-serif;
+    padding: 20px;
+    border-radius: 50px;
+}
+.crush{
+    border:10px  solid lightblue;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+}
+.kam{
+    border: 10px solid lightblue;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    border-radius: 50px;
+}
